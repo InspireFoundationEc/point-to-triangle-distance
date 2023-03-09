@@ -1,8 +1,8 @@
-# eigen-doctest-example
+# point-to-triangle-distance
 
 [![CI](https://github.com/InspireFoundationEc/eigen-doctest-example/actions/workflows/CI.yml/badge.svg)](https://github.com/InspireFoundationEc/eigen-doctest-example/actions/workflows/CI.yml)
 
-This example repo shows how to write unit tests for a program that uses Eigen.
+(To-do: add description)
 
 ## Pre-requirements
 - GNU Compilation Tools: specifically `g++` and `make`
