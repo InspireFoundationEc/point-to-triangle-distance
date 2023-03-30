@@ -2,13 +2,14 @@
 
 [![CI](https://github.com/InspireFoundationEc/eigen-doctest-example/actions/workflows/CI.yml/badge.svg)](https://github.com/InspireFoundationEc/eigen-doctest-example/actions/workflows/CI.yml)
 
+## Description
 (To-do: add description)
 
 ## Pre-requirements
 - GNU Compilation Tools: specifically `g++` and `make`
 - Eigen library
 - Doctest library
-
+    
     _See the [Resources](#resources) section for installation instructions._
 
 ## Build & Run
@@ -17,6 +18,9 @@ To build the `main` and `test` executables, run the following command in the roo
 ```bash
 make all
 ```
+
+**Note:** _the provided Makefile assumes you have the libraries in a directory called `C:/cpp_includes`. Make sure to adapt it to your system if needed._ 
+    
 
 To run the executables, `cd` into the `build` directory, and then:
 ```bash
